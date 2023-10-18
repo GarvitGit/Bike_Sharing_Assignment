@@ -35,5 +35,5 @@ We are able to give and R2 of .81 on test set and .84 on training set
 Inspired from Upgrad
 
 ## Contact
-Created by [@gitGarvit] - feel free to contact me!
+Created by [@GarvitGit] - feel free to contact me!
 
